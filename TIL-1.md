@@ -39,3 +39,5 @@
 > DAO를 JPA를 통해서 작성
 ### /src/main/java/프로젝트/service/MemberService.java
 > __`Repository`에서 JPA를 이용해서 작성한 DAO의 transaction을 생성__
+### /src/main/java/프로젝트/MemberController.java
+> POST, GET과 같은 Request에 대한 Response 맵핑 후 페이지 rendering, redirecting
