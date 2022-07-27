@@ -1,2 +1,4 @@
-# TIL-Web-Spring
-🌳오늘 내가 배운것은? (framework)🌳
+# Today I Learn (Web-Spring Boot)
+- Spring Boot Framework에 대한 학습 노트 입니다. 📝
+- 실습 관련 자료는 Issues에 있습니다. 🐣
+- Do my best!!🔥
