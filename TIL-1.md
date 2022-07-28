@@ -9,8 +9,9 @@
     - Java: 11
     - __Dependencies: Spring Web, Thymeleaf__
 4. IntelliJ로 Open
-5. (프로젝트명)Aplication.java 내부의 메인 메소드 Run
-6. `http://localhost:8080/`에서 확인
+5. src 우클릭 -> mark directory as -> root source
+6. (프로젝트명)Aplication.java 내부의 메인 메소드 Run
+7. `http://localhost:8080/`에서 확인
 
 ## 2. MVC 모델
 ![image](https://user-images.githubusercontent.com/67450413/181166692-6f9a976d-0e70-4785-ac21-9b4800ecaff7.png)
